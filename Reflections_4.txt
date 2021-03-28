@@ -1,0 +1,7 @@
+Scrum w swoich rygorystycznych zasadach zakłada model dostarczania w postaci zamkniętych sprintów, których zawartość nie powinna się znacząco zmieniać w jego trakcie. Takie podejście wymaga dużej dyscypliny organizacyjnej oraz regularnego wykonywania rytuałów Scruma typu grooming, planning, retrospektywa. 
+
+Każdy sprint tworzy zamknięty koszyk wypełniony zadaniami – Stories, a jego pojemność zależy od wielkości zwanej team velocity, czyli ilości story pointów, które zespół może dostarczyć w czasie jednego sprintu. Pozwala to na planowanie długoterminowe projektu na podstawie historycznego velocity zespołu. 
+
+Kanban z kolei jest czymś w rodzaju strumienia zadań. Zadania napływają w kolejności ustalonej przez product ownera, a zespół wykonuje je w tej kolejności. 
+
+Kanban jako strumień nie zakłada zamkniętych sprintów – elementy mogą być dodawane i zabierane przez PO z listy zadań TODO, dopóki nikt nie rozpoczął nad nimi pracy. Sama lista może być przebudowywana w sposób ciągły wg priorytetów PO. Długoterminowe planowanie odbywa się poprzez analizę historycznego tempa dostarczania, o czym dokładniej przeczytasz w kolejnych punktach.
